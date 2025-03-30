@@ -13,6 +13,6 @@
   </a>
 
   <a href="DefiantOnesIndex.png">
-    <img src="DefiantOnesIndex.png" width ="350px" alt="Extra Image" />
+    <img src="DefiantOnesIndex.png" width ="300px" alt="Extra Image" />
   </a>
 </div>
