@@ -9,7 +9,7 @@
   </a>
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img width="295px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackSmoot&layout=compact&theme=radical" />
+    <img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackSmoot&layout=compact&theme=radical" />
   </a>
 
   <a href="DefiantOnesIndex.png">
