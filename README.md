@@ -11,4 +11,8 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img width="295px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JackSmoot&layout=compact&theme=radical" />
   </a>
+
+  <a href="YOUR_IMAGE_URL">
+    <img src="DefiantOnesIndex.png" alt="Extra Image" />
+  </a>
 </div>
